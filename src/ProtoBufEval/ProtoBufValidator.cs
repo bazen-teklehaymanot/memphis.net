@@ -59,7 +59,7 @@ public static class ProtoBufValidator
     /// <summary>
     /// Validate a base64 encoded protobuf payload against a schema
     /// </summary>
-    /// <param name="json64Data"></param>
+    /// <param name="json64"></param>
     /// <param name="activeSchemaVersionBase64"></param>
     /// <param name="schemaName"></param>
     /// <returns></returns>
